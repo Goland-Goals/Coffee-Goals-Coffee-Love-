@@ -1,0 +1,32 @@
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+color: #333;
+padding: 20px;
+max-width: 800px;
+margin: 0 auto;
+}
+
+h1, h2 {
+color: #6F4E37;
+}
+
+/* Centering logic for the main image */
+.centered-image {
+display: block;
+margin-left: auto;
+margin-right: auto;
+max-width: 100%;
+height: auto;
+}
+
+img {
+margin-top: 15px;
+border-radius: 8px;
+}
+
+ul {
+background-color: #f9f9f9;
+padding: 20px 40px;
+border-radius: 5px;
+}
